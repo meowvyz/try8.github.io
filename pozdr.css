@@ -1,0 +1,124 @@
+body{
+    background-image: url('фонмайн2.jpg');
+    background-size: 100%;
+    background-attachment: fixed;
+}
+.txt1{
+    text-align: center;
+    margin-top: 14.5%;
+    color: rgb(255, 198, 201);
+    font-family: rubik black;
+    font-size: 3vw;
+}
+.val{
+    margin-top: -20%;
+    text-align: center;
+    position: relative;
+    z-index: -1;
+}
+.txt2{
+    
+    font-size: 5vw;
+    font-family: Georgia;
+    color: rgba(255, 152, 183, 0.596);
+    position: relative;
+    z-index: 1;
+}
+.ps{
+  margin-top: -140%;
+}
+.me{
+  
+}
+.frog{
+    margin-left: 10%;
+}
+.pasha{
+ margin-left: 70%;
+ margin-top: -70%;
+}
+.arrow{
+    margin-top: -8.4%;
+text-align: left;
+}
+.arrow1{
+    margin-top: -8%;
+text-align: right;
+}
+.txt3{
+    color: aliceblue;
+    font-family: Impact;
+    font-size: 1.2vw;
+    margin-top: -22%;
+    text-align: center;
+}
+.txtthemain{
+    margin-top: 16%;
+color: antiquewhite;
+font-size: 0.5vw;
+text-align: center;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.i1{
+margin-top: 10%;
+margin-left: 20%;
+}
+.i2{
+    margin-top: 35%;
+    margin-left: 1%;
+}
+.i3{
+    margin-top: -5%;
+    margin-left: 1%;
+}
+.i4{
+    text-align: right;
+    margin-top: -100%;
+}
+.i5{
+    text-align: right;
+    margin-top: -4;
+    margin-left: 1%;
+}
+.i6{
+  
+    margin-top: 30%;
+    margin-left: 20%;
+}
+.i7{
+    margin-left: 20%;
+    margin-top: -7%;
+}
+.i8{
+    text-align: left;
+    margin-top: -1%;
+}
+.i9{
+    text-align: left;
+    margin-top: -1%;  
+}
+.i10{
+    text-align: right;
+    margin-top: -90%;
+}
+.i11{
+    margin-left: 14%;
+    margin-top: -87%;
+}
+.i12{
+    text-align: right;
+
+    margin-top: 70%
+}
+.i13{
+    margin-top: -23%;
+    margin-left: 83%;
+}
+.i14{
+margin-left: 16%;
+margin-top: -25%;
+}
+.i15{
+    margin-left: 10%;
+    margin-top: 10%;
+}
